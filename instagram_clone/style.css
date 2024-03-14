@@ -1,0 +1,667 @@
+.sidebar-right {
+    width: 16%;
+    height: 100%;
+    background-color: black;
+    position: fixed;
+    top: 0; 
+    box-shadow: 0.1px 0 0.5px white;
+}
+.main{
+    width: 50%;
+    height: 2000px;
+    background-color: black;
+    position: relative;
+    left: 270px;
+ top: 0; 
+}
+.sidebar-left{
+    width: 25%;
+    height: 600px;
+    background-color:rgb(0, 0, 0);
+    position: absolute;
+left: 1040px;
+   top: 0;
+}
+.template{
+    position: relative;
+}
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .logo-write{
+    position: relative;
+    left: 15px;
+    color: white;
+  }
+  body{
+    background-color: black;
+  }
+  .home{
+    color: white;
+
+  }
+  .sidebar-right img{
+    width: 25px;
+    position: relative;
+    left: 20px;
+  
+  }
+  .logo-name{
+    color: white;
+  }
+  .logo-write{
+    position: relative;
+    left: 30px;
+    font-family: "Pacifico", cursive;
+    font-size: x-large;
+    color: white;
+    
+  }
+  .button{
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: 3px;
+    border:none;
+   background-color: black;
+   text-decoration: none;
+   font-family: "Anton", sans-serif;
+font-size: 18px;
+
+  }
+  .anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.profilebox{
+    width: 60px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    
+}
+.profilebox img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.button1{
+    color: white;
+    position: relative;
+    left: 80px;
+    bottom: 30px;
+    border:none;
+   background-color: black;
+   text-decoration: none;
+   font-family: "Anton", sans-serif;
+font-size: 18px;
+}
+.profile_box{
+  width: 50px;
+  height:50px;
+  background-color: aqua;
+  border-radius:50%;
+position: relative;
+top: 40px;
+left: 15px;
+}
+.profile_box img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.logo-name-2{
+  color: white;
+  position: relative;
+  left: 60px;
+  bottom: 45px;
+  text-decoration: none;
+}
+.logo-name-3{
+  color: rgb(168, 168, 168);
+  position: relative;
+  left: 58px;
+  bottom: 60px;
+}
+.button4{
+  position: relative;
+  left: 220px;
+  top: 15px;
+  text-decoration: none;
+
+color: blue;
+}
+.message-oneri{
+  color: rgb(168, 168, 168);
+  position: relative;
+  top: 30px;
+  left: 20px;
+}
+.button5{
+  position: relative;
+  left: 220px;
+ bottom: 3px;
+  text-decoration: none;
+  color: rgb(123, 123, 123);
+}
+
+
+.profile_left_kutu_1{
+  width: 50px;
+  height:50px;
+  border-radius:50%;
+position: relative;
+left: 15px;
+}
+.profile_left_kutu_2{
+  width: 50px;
+  height:50px;
+  border-radius:50%;
+position: relative;
+top: 40px;
+left: 15px;
+}
+.profile_left_kutu_3{
+  width: 50px;
+  height:50px;
+  border-radius:50%;
+position: relative;
+top: 20px;
+left: 15px;
+}
+.profile_left_kutu_4{
+  width: 50px;
+  height:50px;
+  border-radius:50%;
+position: relative;
+bottom: 140px;
+left: 15px;
+}
+.profile_left_kutu_5{
+  width: 50px;
+  height:50px;
+  border-radius:50%;
+position: relative;
+bottom: 240px;
+left: 15px;
+}
+.instagram-ceo{
+width: 100%;
+height: 100%;
+object-fit: cover;
+border-radius: 50%;
+}
+.ceo-ins{
+  color: rgb(245, 245, 245);
+  position: relative;
+  left: 80px;
+  bottom: 43px;
+  text-decoration: none;
+}
+.oneri1{
+  color: rgb(168, 168, 168);
+  position: relative;
+  left: 80px;
+  bottom: 60px;
+}
+.follow1{
+  text-decoration: none;
+  position: relative;
+  left: 235px;
+  bottom: 110px; 
+font-size:14px;
+}
+.meta-ceo{
+  width: 100%;
+height: 100%;
+object-fit: cover;
+border-radius: 50%;
+position: relative;
+bottom: 115px;
+left: 5px;
+}
+.amazon-ceo{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+  bottom: 170px;
+  left: 5px;
+}
+.uber-ceo{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+  bottom: 85px;
+  left: 5px;
+}
+.google-ceo{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+  bottom: 65px;
+  left: 5px;
+}
+.ceo-meta{
+  color: rgb(245, 245, 245);
+  position: relative;
+  left: 80px;
+  bottom: 120px;
+  text-decoration: none;
+}
+.oneri2{
+  color: rgb(168, 168, 168);
+  position: relative;
+  left: 80px;
+  bottom: 135px;
+}
+.follow2{
+  text-decoration: none;
+  position: relative;
+  left: 235px;
+  bottom: 180px; 
+font-size:14px;
+}
+.ceo-amazon{
+  color: rgb(245, 245, 245);
+  position: relative;
+  left: 80px;
+  bottom: 190px;
+  text-decoration: none; 
+}
+.oneri3{
+  color: rgb(168, 168, 168);
+  position: relative;
+  left: 80px;
+  bottom: 205px;
+}
+.follow3{
+  text-decoration: none;
+  position: relative;
+  left: 235px;
+  bottom: 250px; 
+font-size:14px;
+}
+.ceo-uber{
+  color: rgb(245, 245, 245);
+  position: relative;
+  left: 80px;
+  bottom: 265px;
+  text-decoration: none; 
+}
+.oneri4{
+  color: rgb(168, 168, 168);
+  position: relative;
+  left: 80px;
+  bottom: 280px;
+}
+.follow4{
+  text-decoration: none;
+  position: relative;
+  left: 235px;
+  bottom: 325px; 
+font-size:14px;
+}
+.ceo-google{
+  color: rgb(245, 245, 245);
+  position: relative;
+  left: 80px;
+  bottom: 345px;
+  text-decoration: none; 
+}
+.oneri5{
+  color: rgb(168, 168, 168);
+  position: relative;
+  left: 80px;
+  bottom: 360px;
+}
+.follow5{
+  text-decoration: none;
+  position: relative;
+  left: 235px;
+  bottom: 405px; 
+font-size:14px;
+}
+.button0{
+  position: relative;
+bottom: 350px;
+  text-decoration: none;
+  font-size: smaller;
+  color:rgb(115, 115, 115);
+  left: 25px;
+}
+.button01{
+  text-decoration: none;
+  color: rgb(245, 245, 245);
+  position: relative;
+  bottom: 30px;
+  left: 80px;
+  font-size: large;
+}
+.button02{
+  text-decoration: none;
+  color: rgb(115, 115, 115);
+  position: relative;
+  bottom: 30px;
+  left: 90px;
+  font-size: large;
+}
+
+.button-filter{
+  width: 600px;
+  height: 70px;
+  box-shadow: 0px 0.1px 0px 0px white;
+  position: relative;
+  bottom: px;
+  left: 80px;
+}
+
+#slider {
+  font: 19px sans-serif;
+  margin: 0px auto;
+  position: relative;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+}
+
+#kontrol {
+  position: absolute;
+  right: 0px;
+  bottom: 10px;
+}
+
+#kontrol a {
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  text-decoration: none;
+}
+.sonraki {
+  position: relative;
+  bottom: 120px;
+}
+.before{
+  position: relative;
+  bottom: 95px;
+  right: 456px;
+width: 100%;
+height: 25px;
+}
+
+#slider{
+  position: relative;
+  bottom: 1990px;
+  right: 100px;
+}
+.story {
+  display: flex;
+  position: relative;
+  left: 90px;
+}
+
+.button-container {
+  display: flex;
+}
+
+.story_account {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  margin-right: 10px;
+  background-color: #ddd;
+  border: none;
+  cursor: pointer;
+}
+
+/* Sağ ve sol okları göstermek için */
+.story-arrow {
+  width: 30px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: none;
+  cursor: pointer;
+}
+
+.story-arrow-left {
+  margin-right: 10px;
+}
+
+.story-arrow-right {
+  margin-left: 10px;
+}
+
+.slayt-container {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slayt {
+  min-width: 100%;
+  height: 300px; /* Slider yüksekliğini belirleyin */
+  background-size: cover;
+  box-sizing: border-box;
+}
+
+.active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.before_one{
+  position: relative;
+  right: 120px;
+  top: 30px;
+}
+.sonraki_one{
+  position: relative;
+  left: 440px;
+}
+
+.slayt_one {
+  min-width: 60%;
+  height: 70px; /* Slider yüksekliğini belirleyin */
+  background-size: cover;
+  border-radius: 100%;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 70px;
+  position: relative;
+bottom: 1900px;
+right:100px ;
+}
+.horizontal-scroll{
+  width: 600px;
+  height: 80px;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+
+}
+.horizontal-scroll .btn-scroll{
+  background-color: #fff;
+  color: #999;
+  box-shadow: 0 0 10px #999;
+  padding: 5px 8px;
+border: 0;
+border-radius: 50%;
+margin: 0 5px;
+z-index:1;
+cursor: pointer;
+transition: 1s;
+}
+
+.storys-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  left: 0;
+transition: 0.5s all ease-out;
+}
+.story-circle{
+  background: linear-gradient(rgb(231,0,231),rgb(255,115,0));
+width: 60px;
+height: 60px;
+margin: 15px 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+transform: rotateZ(45deg);
+}
+.story-circle img{
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  transform: rotateZ(-45deg);
+}
+
+/* .gonderi_bir{
+  width: 600px;
+  height: 50px;
+  background-color: aqua;
+  position: relative;
+left: 322px;
+bottom: 1800px;
+}
+
+.gonderi_bir_img{
+  width: 50px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+} */
+
+.gonderi_bir {
+  width: 600px;
+  height: 50px;
+  background-color: black;
+  position: relative;
+  left: 400px;
+  bottom: 1850px;
+}
+
+.gonderi_bir_img {
+  width: 50px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+}
+
+.gonderi_bir_img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.gonderi_ismi {
+  color: white;
+  position: relative;
+  bottom: 35px;
+  left: 55px;
+}
+.ucnokta{
+  position: relative;
+  left: 430px;
+  bottom: 50px;
+}
+.profil_ismi{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+  left: 370px;
+  bottom: 1950px;
+  color: white;
+}
+.profil_ismi1{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+left: 450px;
+  bottom: 1970px;
+  color: white;
+}.profil_ismi2{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+  left: 530px;
+  bottom: 1990px;
+  color: white;
+}.profil_ismi3{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+  left: 610px;
+  bottom: 2010px;
+  color: white;
+}.profil_ismi4{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+  left: 690px;
+  bottom: 2030px;
+  color: white;
+}.profil_ismi5{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+  left: 770px;
+  bottom: 2050px;
+  color: white;
+}.profil_ismi6{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  position: relative;
+  left: 850px;
+  bottom: 2070px;
+  color: white;
+}
+.gonderi_altı{
+  width: 200px;
+  height: 80px;
+  background-color: aqua;
+  position: relative;
+  left: 400px;
+  bottom: 1990px;
+}
+
+.icon-gonderi-alti img{
+  width: 500px;
+}
